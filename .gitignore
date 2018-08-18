@@ -1,0 +1,8 @@
+# exclude everything except directory foo/bar
+/Debug
+/game-of-life/Debug
+/game-of-life/game-of-life.vcxproj
+/game-of-life/game-of-life.vcxproj.filters
+/game-of-life/game-of-life.vcxproj.user
+/game-of-life.sln
+/.vs
