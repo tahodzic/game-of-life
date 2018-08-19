@@ -6,3 +6,6 @@
 /game-of-life/game-of-life.vcxproj.user
 /game-of-life.sln
 /.vs
+/game-of-life/targetver.h
+/game-of-life/stdafx.h
+/game-of-life/stdafx.cpp
